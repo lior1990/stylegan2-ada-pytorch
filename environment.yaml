@@ -1,0 +1,20 @@
+name: stylegan2-ada
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.7
+  - pip=20.3
+  - cudatoolkit=11
+  - pytorch=1.7.1
+  - pip:
+    - click
+    - requests
+    - tqdm
+    - pyspng
+    - ninja
+    - imageio-ffmpeg==0.4.3
+    - psutil
+    - Pillow
+    - scipy
+    - tensorboard

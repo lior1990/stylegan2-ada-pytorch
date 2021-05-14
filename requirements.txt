@@ -1,0 +1,38 @@
+absl-py==0.12.0
+cachetools==4.2.2
+certifi==2020.12.5
+chardet==4.0.0
+click==8.0.0
+google-auth==1.30.0
+google-auth-oauthlib==0.4.4
+grpcio==1.37.1
+idna==2.10
+imageio-ffmpeg==0.4.3
+importlib-metadata==4.0.1
+Markdown==3.3.4
+mkl-fft==1.3.0
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1618853974840/work
+mkl-service==2.3.0
+ninja==1.10.0.post2
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1618497199865/work
+oauthlib==3.1.0
+Pillow==8.2.0
+protobuf==3.17.0
+psutil==5.8.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pyspng==0.1.0
+requests==2.25.1
+requests-oauthlib==1.3.0
+rsa==4.7.2
+scipy==1.6.3
+six @ file:///tmp/build/80754af9/six_1605205313296/work
+tensorboard==2.5.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+torch==1.7.1
+tqdm==4.60.0
+typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
+urllib3==1.26.4
+Werkzeug==2.0.0
+zipp==3.4.1
